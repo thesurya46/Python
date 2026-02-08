@@ -1,6 +1,6 @@
 # Binary Tree Traversal
 
-## Overview
+## Overview (imp)
 
 The combination of binary trees being data structures and traversal being an algorithm relates to classic problems, either directly or indirectly.
 
